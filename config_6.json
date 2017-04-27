@@ -1,0 +1,45 @@
+{
+    "interval": 27000,
+    "serverPort": 1343,
+    "autoRetryOnCrash": true,
+    "notifyWhenNewItemsFound": true,
+    "notifyWhenOnKeywordMatch": true,
+    "noImageURL": "http://i.imgur.com/MdsG0Po.png",
+    "slackBot": {
+        "active": true,
+        "token": "x",
+        "channel": "monitor",
+        "settings": {
+            "username": "plug_6",
+            "icon_url": "http://i.imgur.com/yyzBJMc.png"
+        }
+    },
+    "twitter": {
+        "active": false,
+        "consumer_key": "consumer key goes here",
+        "consumer_secret": "consumer secret goes here",
+        "access_token": "access token over here",
+        "access_token_secret": "access token secret here"
+    },
+    "sites": [
+      "http://www.marathonsports.com/sitemap_products_1.xml",
+      "https://www.urbanindustry.co.uk/sitemap_products_1.xml",
+      "https://thesportsedit.com/sitemap_products_1.xml",
+      "https://samtabak.com/sitemap_products_1.xml",
+      "http://attic2zoo.com/sitemap_products_1.xml",
+      "https://www.courtsidesneakers.com/sitemap_products_1.xml",
+      "http://wishatl.com/sitemap_products_1.xml",
+      "https://beatniconline.com/sitemap_products_1.xml",
+      "http://nrml.ca/sitemap_products_1.xml",
+      "http://www.highsandlows.net.au/sitemap_products_1.xml",
+      "https://wellgosh.com/media/sitemap.xml"
+
+    ],
+    "keywords": [
+      "nmd",
+      "yeezy",
+      "nomad",
+      "nmod",
+      "yzy"
+    ]
+}

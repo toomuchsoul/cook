@@ -1,0 +1,45 @@
+{
+    "interval": 27000,
+    "serverPort": 1335,
+    "autoRetryOnCrash": true,
+    "notifyWhenNewItemsFound": true,
+    "notifyWhenOnKeywordMatch": true,
+    "noImageURL": "http://i.imgur.com/MdsG0Po.png",
+    "slackBot": {
+        "active": true,
+        "token": "xxx",
+        "channel": "monitor",
+        "settings": {
+            "username": "plug_2",
+            "icon_url": "http://i.imgur.com/yyzBJMc.png"
+        }
+    },
+    "twitter": {
+        "active": false,
+        "consumer_key": "consumer key goes here",
+        "consumer_secret": "consumer secret goes here",
+        "access_token": "access token over here",
+        "access_token_secret": "access token secret here"
+    },
+    "sites": [
+      "http://blkmkt.us/sitemap_products_1.xml",
+      "http://shop.extrabutterny.com/sitemap_products_1.xml",
+      "http://shophny.com/sitemap_products_1.xml",
+      "http://highsandlows.net.au/sitemap_products_1.xml",
+      "http://freshragsfl.com/sitemap_products_1.xml",
+      "http://featuresneakerboutique.com/sitemap_products_1.xml",
+      "http://fearofgod.com/sitemap_products_1.xml",
+      "http://shop.midnight-usa.com/sitemap_products_1.xml",
+      "http://lapstoneandhammer.com/sitemap_products_1.xml",
+      "http://kithnyc.com/sitemap_products_1.xml",
+      "http://rockcitykicks.com/sitemap_products_1.xml"
+
+    ],
+    "keywords": [
+      "nmd",
+      "yeezy",
+      "nomad",
+      "nmod",
+      "yzy"
+    ]
+}

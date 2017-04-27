@@ -1,0 +1,46 @@
+{
+    "interval": 27000,
+    "serverPort": 1340,
+    "autoRetryOnCrash": true,
+    "notifyWhenNewItemsFound": true,
+    "notifyWhenOnKeywordMatch": true,
+    "noImageURL": "http://i.imgur.com/MdsG0Po.png",
+    "slackBot": {
+        "active": true,
+        "token": "xxx",
+        "channel": "monitor",
+        "settings": {
+            "username": "plug_3",
+            "icon_url": "http://i.imgur.com/yyzBJMc.png"
+        }
+    },
+    "twitter": {
+        "active": false,
+        "consumer_key": "consumer key goes here",
+        "consumer_secret": "consumer secret goes here",
+        "access_token": "access token over here",
+        "access_token_secret": "access token secret here"
+    },
+    "sites": [
+        "http://www.socialstatuspgh.com/sitemap_products_1.xml",
+        "http://www.cityblueshop.com/sitemap_products_1.xml",
+        "https://noirfonce.eu/sitemap_products_1.xml",
+        "https://store.hombreamsterdam.com/sitemap_products_1.xml",
+        "http://www.capsuletoronto.com/sitemap_products_1.xml",
+        "https://www.oipolloi.com/sitemap_products_1.xml",
+        "http://rsvpgallery.com/sitemap_products_1.xml",
+        "https://concrete.nl/sitemap_products_1.xml",
+        "https://us.octobersveryown.com/sitemap_products_1.xml",
+        "https://www.bbbranded.com/sitemap_products_1.xml",
+        "https://commonwealth-ftgg.com/sitemap_products_1.xml",
+        "https://www.westnyc.com/sitemap_products_1.xml"
+
+    ],
+    "keywords": [
+      "nmd",
+      "yeezy",
+      "nomad",
+      "nmod",
+      "yzy"
+    ]
+}

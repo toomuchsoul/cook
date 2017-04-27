@@ -1,0 +1,44 @@
+{
+    "interval": 27000,
+    "serverPort": 1337,
+    "autoRetryOnCrash": true,
+    "notifyWhenNewItemsFound": true,
+    "notifyWhenOnKeywordMatch": true,
+    "noImageURL": "http://i.imgur.com/MdsG0Po.png",
+    "slackBot": {
+        "active": true,
+        "token": "xxx",
+        "channel": "monitor",
+        "settings": {
+            "username": "plug_1",
+            "icon_url": "http://i.imgur.com/yyzBJMc.png"
+        }
+    },
+    "twitter": {
+        "active": false,
+        "consumer_key": "UDx2MRU9IyX7RAanfd70E0Jj8",
+        "consumer_secret": "OBVS42wQEAxlRAxpM1lZRD6fAP5nSBCRPeImed7kkOIalNhSto",
+        "access_token": "823272416453349376-VkmTkstrSYvDGCPxnFKrm2gKXTOEFBn",
+        "access_token_secret": "10fSr1zEYRkkxH9hxZQm08pljbSxR6aUGDHDjddaWAgu6"
+    },
+    "sites": [
+          "http://oneness287.com/sitemap_products_1.xml",
+          "http://bowsandarrowsberkeley.com/sitemap_products_1.xml",
+          "http://www.notre-shop.com/sitemap_products_1.xml",
+          "http://us.octobersveryown.com/sitemap_products_1.xml",
+          "http://ca.octobersveryown.com/sitemap_products_1.xml",
+          "http://cncpts.com/sitemap_products_1.xml",
+          "http://shop.bdgastore.com/sitemap_products_1.xml",
+          "http://shop.havenshop.ca/sitemap_products_1.xml",
+          "http://rise45.com/sitemap_products_1.xml",
+          "http://sneakerpolitics.com/sitemap_products_1.xml"
+
+    ],
+    "keywords": [
+      "nmd",
+      "yeezy",
+      "nomad",
+      "nmod",
+      "yzy"
+    ]
+}

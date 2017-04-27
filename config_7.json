@@ -1,0 +1,44 @@
+{
+    "interval": 27000,
+    "serverPort": 1344,
+    "autoRetryOnCrash": true,
+    "notifyWhenNewItemsFound": true,
+    "notifyWhenOnKeywordMatch": true,
+    "noImageURL": "http://i.imgur.com/MdsG0Po.png",
+    "slackBot": {
+        "active": true,
+        "token": "x",
+        "channel": "monitor",
+        "settings": {
+            "username": "plug_7",
+            "icon_url": "http://i.imgur.com/yyzBJMc.png"
+        }
+    },
+    "twitter": {
+        "active": false,
+        "consumer_key": "consumer key goes here",
+        "consumer_secret": "consumer secret goes here",
+        "access_token": "access token over here",
+        "access_token_secret": "access token secret here"
+    },
+    "sites": [
+      "http://shopnicekicks.com/sitemap_products_1.xml",
+      "http://www.deadstock.ca/sitemap_products_1.xml",
+      "http://packershoes.com/sitemap_products_1.xml",
+      "https://www.xhibition.co//sitemap_products_1.xml",
+      "http://shop.exclucitylife.com/sitemap_products_1.xml",
+      "http://kyliecosmetics.com/sitemap_products_1.xml",
+      "http://minishopmadrid.com/sitemap_products_1.xml",
+      "http://shop-usa.palaceskateboards.com/sitemap_products_1.xml",
+      "http://shop.palaceskateboards.com/sitemap_products_1.xml",
+      "http://offthehook.ca/sitemap_products_1.xml",
+      "http://shoegallerymiami.com/sitemap_products_1.xml"
+    ],
+    "keywords": [
+      "nmd",
+      "yeezy",
+      "nomad",
+      "nmod",
+      "yzy"
+    ]
+}

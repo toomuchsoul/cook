@@ -1,0 +1,43 @@
+{
+    "interval": 27000,
+    "serverPort": 1346,
+    "autoRetryOnCrash": true,
+    "notifyWhenNewItemsFound": true,
+    "notifyWhenOnKeywordMatch": true,
+    "noImageURL": "http://i.imgur.com/MdsG0Po.png",
+    "slackBot": {
+        "active": true,
+        "token": "x",
+        "channel": "monitor",
+        "settings": {
+            "username": "plug_9",
+            "icon_url": "http://i.imgur.com/yyzBJMc.png"
+        }
+    },
+    "twitter": {
+        "active": false,
+        "consumer_key": "consumer key goes here",
+        "consumer_secret": "consumer secret goes here",
+        "access_token": "access token over here",
+        "access_token_secret": "access token secret here"
+    },
+    "sites": [
+      "http://soleheaven.com/sitemap_products_1.xml",
+      "http://solefly.com/sitemap_products_1.xml",
+      "http://soleclassics.com/sitemap_products_1.xml",
+      "http://manorphx.com/sitemap_products_1.xml",
+      "https://shop.antisocialsocialclub.com/sitemap_products_1.xml",
+      "http://www.gloryholeshop.com/feeds/sitemap.xml",
+      "https://www.allikestore.com/sitemap_en.xml",
+      "https://www.philipbrownemenswear.co.uk/sitemap_products_1.xml",
+      "http://www.clickskicks.net/sitemap.xml"
+
+    ],
+    "keywords": [
+      "nmd",
+      "yeezy",
+      "nomad",
+      "nmod",
+      "yzy"
+    ]
+}

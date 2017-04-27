@@ -1,0 +1,44 @@
+{
+    "interval": 27000,
+    "serverPort": 1345,
+    "autoRetryOnCrash": true,
+    "notifyWhenNewItemsFound": true,
+    "notifyWhenOnKeywordMatch": true,
+    "noImageURL": "http://i.imgur.com/MdsG0Po.png",
+    "slackBot": {
+        "active": true,
+        "token": "x",
+        "channel": "monitor",
+        "settings": {
+            "username": "plug_8",
+            "icon_url": "http://i.imgur.com/yyzBJMc.png"
+        }
+    },
+    "twitter": {
+        "active": false,
+        "consumer_key": "consumer key goes here",
+        "consumer_secret": "consumer secret goes here",
+        "access_token": "access token over here",
+        "access_token_secret": "access token secret here"
+    },
+    "sites": [
+      "http://centre214.com/sitemap_products_1.xml",
+      "https://suede-store.com/sitemap_products_1.xml",
+      "http://www.huntinglodge.no/sitemap_products_1.xml",
+      "https://ruleofnext.com/sitemap_products_1.xml",
+      "https://atmosny.com/sitemap_products_1.xml",
+      "http://shop.bbcicecream.com/sitemap_products_1.xml",
+      "http://commonwealth-ftgg.com/sitemap_products_1.xml",
+      "http://theclosetinc.com/sitemap_products_1.xml",
+      "http://centre214.com/sitemap_products_1.xml",
+      "http://blkmkt.us/sitemap_products_1.xml"
+
+    ],
+    "keywords": [
+      "nmd",
+      "yeezy",
+      "nomad",
+      "nmod",
+      "yzy"
+    ]
+}
